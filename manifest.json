@@ -1,0 +1,764 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/BnkExtractor/BnkExtractor/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.BankHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.BankHeader.html",
+          "hash": "kXqtr0Wb8UhM5guCRjWxu6JH1d2IVUNnnqS5649vX8o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.BnkParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.BnkParser.html",
+          "hash": "74qDXKS1uTt0JdWdCvTCAkF4W9OsTXL7Rm/tWn/rA5g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.EventActionObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.EventActionObject.html",
+          "hash": "czfOYXDJc7OQJ1CO5sq9yBvHFUhoFIqOVkOLdv9SLj4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.EventActionParameterType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.EventActionParameterType.html",
+          "hash": "PQDVwDF3ULqz69bP+ysF/j+QUQtmGvDHo9DIhrEhKpo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.EventActionScope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.EventActionScope.html",
+          "hash": "mo9ZAb/cmZUhG9DiQ4tVtJVp26eXeB+ETArEVltXTyk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.EventActionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.EventActionType.html",
+          "hash": "s1GoDCVly8EO3r1+LtXCFwL9MdmhaeBUnuc9bMZDAf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.EventObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.EventObject.html",
+          "hash": "ZJpi1E4Kl3iDcNnNpwE65PD82vr3OjQUliHjX7jb/hw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.IReadable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.IReadable.html",
+          "hash": "KX4J9GxZROu7xiEJ1zBS3XgHtO6LOWRu+0ZUuwo0Ul8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.Index.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.Index.html",
+          "hash": "8AypshflYv9bFRyvflhbIYbFlUx1agauWK6S0h0jdY4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.Object.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.Object.html",
+          "hash": "UZWGQDuN+bJZHdT3KQt2KKuIRgccjMswDJ6rLmUThkU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.ObjectType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.ObjectType.html",
+          "hash": "kaoB91OzgVdcCBunF/yq4ixg22nZdXge2tlja4iz2cw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.Section.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.Section.html",
+          "hash": "BjgXMaz/dTKrpsmJLha8oOjZpfoWrChdZzpV3nP2R7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.BnkExtr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.BnkExtr.html",
+          "hash": "UuVJo8IPhuCq26DDhJEDLfJN43/FklkjPLJ1NPJseXA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Extractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Extractor.html",
+          "hash": "CF/5YKpA1FVUiFiu6R29Qj9zcFlD33AEkJy0PaI7z+A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Logger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Logger.html",
+          "hash": "tKGPPcihk2F97/DjBQPIARdunaCG3ENoeUKMhCRB0NU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Revorb.RevorbSharp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Revorb.RevorbSharp.html",
+          "hash": "ZDR30SugOnjPzbfJq1M2F4h5UgTFPsgTNN3TyQFJZWo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Revorb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Revorb.html",
+          "hash": "FDqf036ZXGtlmEROJ3Q9V0mq1MQx4GX4uwIsyhNa3cE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.BitOggStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.BitOggStream.html",
+          "hash": "w1umCRAX2WkUWZzDxbi/Gx6yngSBuuScPpheVBKhNA4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.BitStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.BitStream.html",
+          "hash": "kiRSzvACyupofxGhUc4LOamr7xniEDnKJ5322f7ISwU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint.html",
+          "hash": "vzwmcT+N3Cfpig2v9JSgRqo3GN5t3RW4lSGrRvtkHVY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint1.html",
+          "hash": "ZtKAq93vwWsKH4tD3tPKphcKK11B/HpkOgndNPci+pE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint10.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint10.html",
+          "hash": "iNQJtqLIwsFsh2Ldm9fgxcVOttHHKJpub1Jm78mBzqc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint14.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint14.html",
+          "hash": "fl9LrXXZ4iASUgT3Xzg0rHtphf487irQd4HzN9Ag5yg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint16.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint16.html",
+          "hash": "Wft1Evdi6VVO+YPVy9iFbiMVZmr4YMHe+uMYnz4AFN0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint2.html",
+          "hash": "ZXNv4+d8EHxsYGVVf20xTFSfzmlcVIUU0cxcYv0I9jA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint24.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint24.html",
+          "hash": "STzSICg3j+x0BBM+KLxD1JNLlBRbFaHb2z75VCq1yjg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint3.html",
+          "hash": "AeVCJIHCSCrWwbVlwMbT2L4c1gznTRU3S3KsDIIQHRE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint32.html",
+          "hash": "ADr6itp97Z7x0tmj4IfSDi/gb9yPoCGxgcoUQSQQ/n8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint4.html",
+          "hash": "eNSCbc0jWAJofTjYWZeHLXK9ZapfsZAoDnF84k+rJFQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint5.html",
+          "hash": "01zE60kz03+57gWDJ31zrGu5kT5P0lSJG/c3qLQoe/Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint6.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint6.html",
+          "hash": "2w3MhfgCDPN79o/qnluYQuFgBAKk29FC7KZNDgvXavs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uint8.html",
+          "hash": "bd4hB86a3i16lysvV9JsoMtJgygfIShofY5bk6wGaZQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Bit_uintv.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Bit_uintv.html",
+          "hash": "T2cYv4wh/TCsYf3jYBU9jC5WxjKLMFuLzw/OgaCA2ms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.CodebookLibrary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.CodebookLibrary.html",
+          "hash": "cNFUyJcnzB1/galqMGuYB3uIkkzprpxOiy4hjasY9Zs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.ArgumentError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.ArgumentError.html",
+          "hash": "jTA6fMhOBosLf4glTvy+fVFQ+R2u73KU5+g+A5eQF3g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.FileOpenException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.FileOpenException.html",
+          "hash": "eYhbNE/pRrgCK6vZtbpkzAfOPNBSIFQUwR97U2tEqTo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.IntTooBigException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.IntTooBigException.html",
+          "hash": "CeBVs/YCon8D9KRecfTgdrb80+C7GVAjzca7KxlAXLE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.InvalidIdException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.InvalidIdException.html",
+          "hash": "12IibL4Owe7veY7zQXz9pnQjNEb5jO1umq9Up9AOyng="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.OutOfBitsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.OutOfBitsException.html",
+          "hash": "W9xG6SEuDMkHBXk7gA4c5bfT0rszOQXLZAFTuoaagW4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.ParseException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.ParseException.html",
+          "hash": "5tL1pbLNUggz3BMkCTzm/l9NeOPcDACkNcQ8DIOg4Bo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.SizeMismatchException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.SizeMismatchException.html",
+          "hash": "wNkM7UpiYWj3k6YTCLSwAdNAfmKCQCUY/gr97dx3g2o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.TooManyBitsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.TooManyBitsException.html",
+          "hash": "5bryNid4wF96FGuFWQBqD8x3a6kUjHA6SQt/Yyq0Ob4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Exceptions.html",
+          "hash": "k6it9+kPehINso/cKq/M3qhxevs03rTu4Q0j/BxBYpY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.ForcePacketFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.ForcePacketFormat.html",
+          "hash": "nZFi3YkKeOQQNeHZh7cHrzvfD4aQ9GtFTVsG80AH9RI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Packet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Packet.html",
+          "hash": "wsUoS0cVn5bltFpz1m4Wc+XmI6RubE/GKRjn+8m7eS8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Packet8.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Packet8.html",
+          "hash": "vrKiyoJ4ENau9RN8ztp6GlQ3RZ54tPeJSssB2+N7rjw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.StreamPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.StreamPosition.html",
+          "hash": "gJLOjekK6ZymN6vzG/XPH0/ui0ZNHa68b3dCbvokYjI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.VorbisPacketHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.VorbisPacketHeader.html",
+          "hash": "dgWXe6J9cyh7hTllrpNGTpiW5Rumi+raOsuv6DPJdCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Ww2oggConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Ww2oggConverter.html",
+          "hash": "JuF92g8PA5QxKB/cfMgoBbkppfL8eylt23Cq6vQ8pmo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Ww2oggOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Ww2oggOptions.html",
+          "hash": "uB8ln12JlZsOpOjUpx/r0jTj3Vsk3tluY68+Gsx/1po="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.Wwise_RIFF_Vorbis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.Wwise_RIFF_Vorbis.html",
+          "hash": "DG/Z74mnMz12uYl6kVXVvaHs83e6IcIpKIGgfS3k81c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.Ww2ogg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.Ww2ogg.html",
+          "hash": "RyXM09ms6qr6CzJht2Lf9YnQmZgM+ioMBp/OnlyNehc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BnkExtractor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BnkExtractor.html",
+          "hash": "nuBM9nEo8cmc1zdaGccrjkmqz/wnJ4lbw7w/3Reiajc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "JSdj/2O8AhD9fm9YykCkbnweYDzn0paKe+QzkuyAcGo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "9fXGf7ZjyWpVPT/Ls9yLfYc/M0tY+aj1ZuQugS3y8Uo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "AKNwlmeGqKl98Re0ULJpIkGbm32WuZg46xTKN058FdM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "/N1t4Qs9px7WQBXCsqR6G5Q+XFaen+M9Wf79fXEDnd4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 53,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
